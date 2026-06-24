@@ -1,6 +1,6 @@
 # 🌷 Mariana B. Teixeira 🌷
 
-## 📊 Quem sou eu
+## 📊 Quem eu sou:
 Sou estudante de **Análise e Desenvolvimento de Sistemas (FATEC de Praia Grande)** e estou iniciando minha trajetória na área de **Dados**, com foco em **Engenharia de Dados**.  
 Meus repositórios documentam exercícios e projetos práticos que refletem meu aprendizado em **SQL, Python e fundamentos de engenharia**.
 
