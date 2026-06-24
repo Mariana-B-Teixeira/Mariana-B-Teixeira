@@ -1,4 +1,4 @@
-# 👩‍💻 Mariana B. Teixeira
+# 🌷 Mariana B. Teixeira 🌷
 
 ## 📊 Quem sou eu
 Sou estudante de **Análise e Desenvolvimento de Sistemas (FATEC Praia Grande)** e estou iniciando minha trajetória na área de **Dados**, com foco em **Engenharia de Dados**.  
