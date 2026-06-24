@@ -21,14 +21,6 @@ Meus repositórios documentam exercícios e projetos práticos que refletem meu 
 
 ---
 
-## 📂 Projetos em destaque
-- **Estudos_SQL** → Repositório principal com exercícios e práticas de SQL  
-   - Treino de **DDL e DML** (criação e manipulação de tabelas e registros)  
-   - Banco fictício para consultas básicas (**Treino básico SQL**)  
-   - Projeto **Ariana Grande Avaliações** → exemplo criativo de modelagem e consultas em um sistema de avaliação de álbuns  
-
----
-
 ## 🎯 Objetivos atuais
 - Aprofundar conhecimentos em **SQL** e boas práticas de modelagem  
 - Explorar ferramentas e conceitos de **Engenharia de Dados** (ETL, pipelines, armazenamento e processamento)  
