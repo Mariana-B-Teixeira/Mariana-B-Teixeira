@@ -10,7 +10,7 @@ Meus repositórios documentam exercícios e projetos práticos que refletem meu 
 ## 🎓 Formação e Interesses
 - Graduação em andamento: **Análise e Desenvolvimento de Sistemas**.
 - Área de interesse: **Dados e IA**.
-- Objetivo: obter a oportunidade trabalhar e evoluir na área de **Dados e IA**.
+- Objetivo: obter a oportunidade de trabalhar e evoluir na área de **Dados e IA**.
 
 ---
 
