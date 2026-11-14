@@ -11,12 +11,13 @@ Meus repositórios documentam exercícios e projetos práticos que refletem meu 
 - Graduação em andamento: **Análise e Desenvolvimento de Sistemas**.
 - Área de interesse: **Dados e IA**.
 - Objetivo: obter a oportunidade trabalhar e evoluir na área de **Dados e IA**.
+
 ---
 
 ## 🛠️ Tecnologias em foco
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
