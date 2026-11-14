@@ -1,30 +1,22 @@
 # 🌷 Mariana B. Teixeira 🌷
 
 ## 📊 Quem eu sou:
-Sou estudante de **Análise e Desenvolvimento de Sistemas, na FATEC de Praia Grande**, e estou iniciando minha trajetória na área de **Dados**, com foco em **Engenharia de Dados**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas, na FATEC de Praia Grande**, e estou iniciando minha trajetória na área de **Dados** e **IA**. 
 
-Meus repositórios documentam exercícios e projetos práticos que refletem meu aprendizado em **SQL, Python e fundamentos de engenharia**.
+Meus repositórios documentam exercícios e projetos práticos que refletem meu aprendizado em **IA, Python e fundamentos de programação**.
 
 ---
 
 ## 🎓 Formação e Interesses
-- Graduação em andamento: **Análise e Desenvolvimento de Sistemas**  
-- Área de interesse: **Engenharia de Dados**  
-- Objetivo: desenvolver soluções eficientes para manipulação, integração e análise de dados
-
+- Graduação em andamento: **Análise e Desenvolvimento de Sistemas**.
+- Área de interesse: **Dados e IA**.
+- Objetivo: obter a oportunidade trabalhar e evoluir na área de **Dados e IA**.
 ---
 
 ## 🛠️ Tecnologias em foco
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-## 🎯 Objetivos atuais
-- Aprofundar conhecimentos em **SQL** e boas práticas de modelagem  
-- Explorar ferramentas e conceitos de **Engenharia de Dados** (ETL, pipelines, armazenamento e processamento)  
-- Criar projetos práticos que simulem cenários reais de manipulação e análise de dados  
 
 ---
 
